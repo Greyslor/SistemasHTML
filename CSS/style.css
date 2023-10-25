@@ -2,3 +2,15 @@
     height: 5rem;
     width: 7rem;
 }
+
+body {
+    background-color: #162b4e;
+}
+
+p {
+    color: aliceblue;
+}
+
+h2{
+    color: aliceblue;
+}
